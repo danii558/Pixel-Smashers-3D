@@ -1,0 +1,10 @@
+# ninja log v5
+25	1480	7581262883807257	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6a1959da5e1c8592
+1	1510	7581262884304039	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	6c67c7b0b252bccf
+38	1604	7581262885406552	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	1f7ffb2c68396816
+11	1685	7581262886194808	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	e349e618f242c0bf
+32	1722	7581262886536179	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	85354ad8f708433e
+46	1744	7581262886867823	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	33463722c6b407b3
+16	2176	7581262891257930	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	3e57b15bbf0ca87f
+6	2249	7581262891981165	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	cd7a51ed2869d4fa
+2250	2366	7581262893193639	C:/Users/user/Documents/Pixel-Smashers-3D/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4q6a2d20/obj/arm64-v8a/libgame.so	38c581f07ece960a

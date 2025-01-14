@@ -1,0 +1,5 @@
+C:/Users/Korov/Documents/Pixel-Smashers-3D/UserSettings/.utmp/RelWithDebInfo/4w593g3l/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Korov/Documents/Pixel-Smashers-3D/UserSettings/.utmp/RelWithDebInfo/4w593g3l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/Korov/Documents/Pixel-Smashers-3D/UserSettings/.utmp/RelWithDebInfo/4w593g3l/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/Korov/Documents/Pixel-Smashers-3D/UserSettings/.utmp/RelWithDebInfo/4w593g3l/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/Korov/Documents/Pixel-Smashers-3D/UserSettings/.utmp/RelWithDebInfo/4w593g3l/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
